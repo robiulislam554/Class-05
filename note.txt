@@ -1,0 +1,9 @@
+
+
+ anchor tag => <a></a> (anchor tag use for link connect in web page)
+
+ ex=  <a herf="https://www.facebook.com/profile.php?id=100091821140118" target="_blank">facebook</a>
+
+ target="_blank" => target blank use for , targeted link open in new tab
+
+ 
